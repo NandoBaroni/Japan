@@ -20,4 +20,4 @@ Tip 5: Embrace Tradition.
 Tip 6: Learn The Japanese Art of Living.
 The Cultural Significance of Kyoto..
   
-  - **Contributor**: Nando Baroni
+**Contributor**: Nando Baroni
