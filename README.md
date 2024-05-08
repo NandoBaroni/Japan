@@ -1,5 +1,5 @@
-# Japan
-Travel Guide to Japan
+# Kyoto
+Travel Guide to Kyoto
 
 Welcome to Japan!
 
