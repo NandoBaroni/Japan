@@ -13,12 +13,6 @@ Kyoto, Japan
     
   - **Travel Tips**:
 
-. Tip 1: Timing is Everything in Kyoto.
-. Tip 2: Avoid Crowds in Peak Season.
-. Tip 3: Respect the Culture.
-. Tip 4: Get a Bus and Subway Pass.
-. Tip 5: Embrace Tradition.
-. Tip 6: Learn The Japanese Art of Living.
-. The Cultural Significance of Kyoto..
+Tip 1: Timing is Everything in Kyoto; Tip 2: Avoid Crowds in Peak Season; Tip 3: Respect the Culture; Tip 4: Get a Bus and Subway Pass; Tip 5: Embrace Tradition; Tip 6: Learn The Japanese Art of Living; The Cultural Significance of Kyoto.
   
 **Contributor**: Nando Baroni
